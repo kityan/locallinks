@@ -1,0 +1,3 @@
+content   locallinks                content/
+
+overlay chrome://browser/content/browser.xul  chrome://locallinks/content/browserOverlay.xul
