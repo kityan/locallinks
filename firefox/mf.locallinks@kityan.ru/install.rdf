@@ -7,7 +7,7 @@
     <em:id>mf.locallinks@kityan.ru</em:id>
     <em:name>Locallinks</em:name>
     <em:description>Add-on to open local files and folders</em:description>
-    <em:version>0.2</em:version>
+    <em:version>0.3</em:version>
     <em:creator>Pavel Kityan</em:creator>
     <em:homepageURL>https://github.com/kityan/locallinks</em:homepageURL>
     <em:type>2</em:type>
