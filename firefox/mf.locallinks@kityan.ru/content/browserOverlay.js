@@ -9,6 +9,7 @@ function onLoad()
 
 	if (allowedHosts.indexOf(this.contentWindow.location.host) > -1)
 	{
+		$(this.contentWindow.document).find('body').undelegate(selector, "click");
 		$(this.contentWindow.document).find('body').delegate(selector, "click",	function(e) 
 			{
 		
